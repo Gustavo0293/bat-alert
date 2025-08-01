@@ -16,4 +16,3 @@
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Navigation](https://reactnavigation.org/)
-- [Expo](https://expo.dev/) *(opcional, se estiver usando Expo)*
